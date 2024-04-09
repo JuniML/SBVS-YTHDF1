@@ -1,6 +1,10 @@
 # SBVS-YTHDF1
 
+
+![abstract](https://github.com/JuniML/SBVS-YTHDF1/assets/79932333/18038e22-a7d7-4b43-8f6f-03f665007ca0)
+
 You will find herein the code and files related to our paper:
+
 
 Muhammad Junaid, Bo Wang and Wenjin Li. Data augmentation helps to improves the performance of the scoring function in structured based virtual screening for m6A reader protein YTHDF1
 
