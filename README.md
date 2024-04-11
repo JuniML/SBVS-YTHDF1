@@ -1,7 +1,6 @@
 # SBVS-YTHDF1
 
-
-![abstract](https://github.com/JuniML/SBVS-YTHDF1/assets/79932333/18038e22-a7d7-4b43-8f6f-03f665007ca0)
+![graphical_abstract](https://github.com/JuniML/SBVS-YTHDF1/assets/79932333/167a4f9d-7572-4d3e-8931-647885340f60)
 
 You will find herein the code and files related to our paper:
 
