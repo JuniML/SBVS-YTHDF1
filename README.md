@@ -4,6 +4,8 @@
 
 You will find herein the code and files related to our paper:
 
+The example directory contains Jupyter Notebook which the users can use to predict the class for their own molecules against YTHDF1
+
 
 Muhammad Junaid, Bo Wang and Wenjin Li. Data augmentation helps to improves the performance of the scoring function in structured based virtual screening for m6A reader protein YTHDF1
 
