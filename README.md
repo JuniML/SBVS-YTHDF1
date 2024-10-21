@@ -3,7 +3,7 @@
 ![graphical_abstract](https://github.com/JuniML/SBVS-YTHDF1/assets/79932333/167a4f9d-7572-4d3e-8931-647885340f60)
 
 You will find herein the code and files related to our paper:
-# Junaid, Muhammad, Bo Wang, and Wenjin Li. "Data-augmented machine learning scoring functions for virtual screening of YTHDF1 m6A reader protein." Computers in Biology and Medicine 183 (2024): 109268.
+**Junaid, Muhammad, Bo Wang, and Wenjin Li. "Data-augmented machine learning scoring functions for virtual screening of YTHDF1 m6A reader protein." *Computers in Biology and Medicine* 183 (2024): 109268.**
 https://doi.org/10.1016/j.compbiomed.2024.109268
 
 The example directory contains Jupyter Notebook which the users can use to predict the class for their molecules against YTHDF1
