@@ -18,6 +18,6 @@ Muhammad Junaid, Bo Wang and Wenjin Li. Data augmentation helps to improve the p
 
 We advise you to refer to our following Nature Protocols paper to better understand SBVS
 
-# Tran-Nguyen, V. K., Junaid, M., Simeon, S. & Ballester, P. J. A practical guide to machine-learning scoring for structure-based virtual screening. Nat. Protoc. (2023).
+**Tran-Nguyen, V. K., Junaid, M., Simeon, S. & Ballester, P. J. A practical guide to machine-learning scoring for structure-based virtual screening. *Nat. Protoc.* **18**, 3460–3511 (2023)**
 
 The protocol-env environment has to be set up before the notebooks are used: please find the protocol-env.yml file for this purpose in our MLSF-protocol GitHub repository: https://github.com/vktrannguyen/MLSF-protocol.
